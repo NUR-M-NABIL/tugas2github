@@ -1,0 +1,10 @@
+ul, li, .item:link, a.item:visited, a.item:active {
+    text-decoration: none; /* menghilangkan garis pada link */
+    display: block; /* mendisplay a sebagai block */
+}
+body{
+    background-color: aquamarine;
+    background-image:url('../img/jjg.jpg');
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
